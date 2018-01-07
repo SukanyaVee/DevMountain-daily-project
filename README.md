@@ -5,4 +5,4 @@ Compilation of all daily projects done at DevMountain
 
 +Afternoon projects are forked from DevMountain and completed over a few hours as standalone exercises
 
-+Toy Problems are time-based speed exercises to test Javascript knowledge/familiarity. They are modeled off Codewars and go up to Kata 4. 
++Toy Problems are time-based exercises to test Javascript knowledge/familiarity. They are modeled off Codewars and go up to Kata 4. 
