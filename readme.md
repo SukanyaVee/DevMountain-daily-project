@@ -8,14 +8,14 @@
 
 Week 1 - 5 Introduction to full stack
 -------------------------------------
--**React** - create app, state & props, lifecycle, routing, redux (store & reducer)
--**HTML** - HTML5, CSS (selectors and specificity, flexbox and positioning), media queries and animations, responsive web design
--**Advanced Javascript**
--**HTTP** - axios
--**Server** - Express/Massive/Node.js, database interaction, sessions, middleware, authentication
--**Database** - ORDMS, PostgresQL, Heroku & SQLTabs, chinook.ml
--Multiple assessments
--Timed simulated projects with competency assessments
+-[x]**React** - create app, state & props, lifecycle, routing, redux (store & reducer)
+-[x]**HTML** - HTML5, CSS (selectors and specificity, flexbox and positioning), media queries and animations, responsive web design
+-[x]**Advanced Javascript**
+-[x]**HTTP** - axios
+-[x]**Server** - Express/Massive/Node.js, database interaction, sessions, middleware, authentication
+-[x]**Database** - ORDMS, PostgresQL, Heroku & SQLTabs, chinook.ml
+-[x]Multiple assessments
+-[x]Timed simulated projects with competency assessments
 
 Week 3
 ------------------
