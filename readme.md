@@ -18,12 +18,12 @@ Week 1 - 5 Introduction to full stack
 Week 3
 ------------------
 **No Database Project** _Monthly Budget_
-A react-based app that takes user input of monthly income and expenses, and displays transactions for the month and calculates savings. Two days to build a single page app that communicates with server to send and receive data. Utlizes full CRUD (create, read, update, delete) along with queries. 
+A react-based app that takes user input of monthly income and expenses, and displays transactions for the month and calculates savings. Two days to build a single page app that communicates with server to manipulate data. Utlizes full CRUD (create, read, update, delete) along with queries. 
 
 Week 6 - 7
 ----------------------------------
 **Personal Project** _Travelateur_ Travel blogging website
-A react-based website that lets user register, login and upload photos and journals and displays them in a gallery. Users are authenticated at each session, and use full CRUD to communicate through HTTP and express server to manipulate a Postgres database that stores user data as well as the photo/journal entries of each user. React S3 was the uploader used to handle photo files. 3rd party API Unsplash was used to create a random inspiration board for users that doesn't require authentication. The app was designed to be responsive to different devices. The site was hosted through Digital Ocean. 
+A react-based website that lets user register, login and upload photos and journals and displays them in a gallery. Users are authenticated at each session, and use full CRUD to communicate through HTTP and express server to manipulate a Postgres database that stores user data as well as the photo/journal entries of each user. Google Maps API is used for geolocation services and Google Places API is used to make travel recommendations. 3rd party API Unsplash was used to create a random inspiration board for users that doesn't require authentication. The app was designed to be responsive to different devices.  
 
 **Personal Project** _Asset-Club_ Personal Finance website
 A react-based app that lets users register, login, input finance information and view them as transactions and as charts. One part of the app handles monthly income and expenses, the other part tracks investments, debts and growth of wealth. Users are authenticated at each session, and use full CRUD to communicate through HTTP and express server to manipulate a Postgres database that stores user data as well as investment/budget transactions of each user. ChartJS was used to visualize growth of investments (Calculated at compounding rate for simplicity.) 3rd party API AlphaVantage/Quandl was used to present stock ticker and price updates that doesn't require user authentication. The app was designed to be responsive to different devices. The site is hosted through digital ocean. 
